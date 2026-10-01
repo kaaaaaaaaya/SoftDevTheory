@@ -19,3 +19,4 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 9. `/export`
 10. `/insights`
 11. `/quit`
+11. `/help`
