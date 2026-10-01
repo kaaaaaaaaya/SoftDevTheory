@@ -8,7 +8,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 
 ## Top Ten Claude Code Commands
 
-1. `/btw`
+1. `/init`
 2. `/rewind`
 3. `/diff`
 4. `/branch`
