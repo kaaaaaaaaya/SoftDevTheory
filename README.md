@@ -15,8 +15,9 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 5. `/compact <instructions>`
 6. `/copy`
 7. `/recap`
-8. `/security-review`
+8. `/doctor` - helps you know how good your current setup with Claude is !
 9. `/export`
 10. `/insights`
 11. `/help`
-11. `/quit`
+12. `/quit`
+13. `/code-review`
