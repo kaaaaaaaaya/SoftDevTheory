@@ -18,6 +18,6 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 8. `/doctor` - helps you know how good your current setup with Claude is !
 9. `/export`
 10. `/insights`
-11. `/quit`
-12. `/code-review`
-1. `/help`
+11. `/help`
+12. `/quit`
+13. `/code-review`
